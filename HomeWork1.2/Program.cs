@@ -16,18 +16,18 @@ namespace HomeWork1._2
             Random rnd = new Random();
             int num = rnd.Next(1, 9);
 
-            int[] array = new int[1000];
+            int[] array = new int[2000];
             CreateArray(array);
 
             OutputDataArray(array, Algorithm.GnomeSort, "GnomeSort");
-           // OutputDataArray(array, Algorithm.Sort, "HeapSort");
-           // OutputDataArray(array, Algorithm.CombSort, "CombSort");
-           // OutputDataFunction(num, Algorithm.Factorial, "Factorial");
+            OutputDataArray(array, Algorithm.Sort, "HeapSort");
+            OutputDataArray(array, Algorithm.CombSort, "CombSort");
+            OutputDataFunction(num, Algorithm.Factorial, "Factorial");
         }
         public static void CreateArray(int[] array)
         {
             Random rnd = new Random();
-            for (int i = 0; i < 200; i++)
+            for (int i = 0; i < 2000; i++)
             {
                 array[i] = rnd.Next(1, 9);
             }
@@ -40,7 +40,7 @@ namespace HomeWork1._2
             {
                 file.Write($"{nameAction};;");
 
-                for (int j = 0; j < 200; j++)
+                for (int j = 0; j < 2000; j++)
                 {
                     for (int i = 0; i < 5; i++)
                     {
@@ -65,7 +65,7 @@ namespace HomeWork1._2
             {
                 file.Write($"{nameAction};;");
 
-                for (int j = 0; j < 1000; j++)
+                for (int j = 0; j < 2000; j++)
                 {
                     for (int i = 0; i < 5; i++)
                     {
