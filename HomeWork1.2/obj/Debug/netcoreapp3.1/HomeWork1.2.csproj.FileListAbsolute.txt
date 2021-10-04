@@ -1,0 +1,14 @@
+D:\Project\HomeWork1.2\HomeWork1.2\bin\Debug\netcoreapp3.1\HomeWork1.2.exe
+D:\Project\HomeWork1.2\HomeWork1.2\bin\Debug\netcoreapp3.1\HomeWork1.2.deps.json
+D:\Project\HomeWork1.2\HomeWork1.2\bin\Debug\netcoreapp3.1\HomeWork1.2.runtimeconfig.json
+D:\Project\HomeWork1.2\HomeWork1.2\bin\Debug\netcoreapp3.1\HomeWork1.2.runtimeconfig.dev.json
+D:\Project\HomeWork1.2\HomeWork1.2\bin\Debug\netcoreapp3.1\HomeWork1.2.dll
+D:\Project\HomeWork1.2\HomeWork1.2\bin\Debug\netcoreapp3.1\HomeWork1.2.pdb
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.csproj.AssemblyReference.cache
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.AssemblyInfoInputs.cache
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.AssemblyInfo.cs
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.csproj.CoreCompileInputs.cache
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.dll
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.pdb
+D:\Project\HomeWork1.2\HomeWork1.2\obj\Debug\netcoreapp3.1\HomeWork1.2.genruntimeconfig.cache
